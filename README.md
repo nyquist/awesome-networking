@@ -23,7 +23,7 @@
 ### Running
 - [VyOS](https://vyos.io/) - VyOS is an open source network operating system that can be installed on physical hardware or a virtual machine on your own server, or a cloud platform
 ### Monitoring
-- [Grafana]](https://grafana.com/) - open source software for time series analytics
+- [Grafana](https://grafana.com/) - open source software for time series analytics
 - [Prometheus](https://prometheus.io/) - Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud
 #### Performance
 - [perfSONAR](https://www.perfsonar.net) - perfSONAR is a network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations
@@ -32,7 +32,7 @@
 #### Telemetry
 - [pmacct](http://www.pmacct.net/) - pmacct is a small set of multi-purpose passive network monitoring tools
 #### SIEM
-- http://www.smart-investigator.com/
+
 ### Management
 - [phpipam](https://phpipam.net/) - phpipam is an open-source web IP address management application (IPAM)
 - [nsot](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database
