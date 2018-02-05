@@ -5,6 +5,8 @@
 
 
 ## Design
+### DesignDocs
+- [Cisco Design Zone](https://www.cisco.com/c/en/us/solutions/design-zone.html#~stickynav=1) - Cisco Design Guides
 ### Simulation
 - [Ostinato](https://ostinato.org/) - Ostinato is a packet crafter, network traffic generator and analyzer with a friendly GUI
 - [Mininet](http://mininet.org/) - An Instant Virtual Network on your Laptop
@@ -22,18 +24,27 @@
 ## Operations
 ### Running
 - [VyOS](https://vyos.io/) - VyOS is an open source network operating system that can be installed on physical hardware or a virtual machine on your own server, or a cloud platform
+#### SD-WAN
+- [Silver Peak](https://www.silver-peak.com/) - SD-WAN Solution(Commercial)
 ### Monitoring
 - [Grafana](https://grafana.com/) - open source software for time series analytics
 - [Prometheus](https://prometheus.io/) - Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud
+- [Forward Networks](https://www.forwardnetworks.com/) - Network Behavior Analysis (Commercial)
 #### Performance
 - [perfSONAR](https://www.perfsonar.net) - perfSONAR is a network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations
 - [UDPing](https://github.com/yahoo/UDPing) - The purpose of UDPing is to measure latency and packet loss across a link
 #### Availability
+
 #### Telemetry
 - [pmacct](http://www.pmacct.net/) - pmacct is a small set of multi-purpose passive network monitoring tools
-#### SIEM
+#### SecurityMonitoring
+- [Smart Investigator](http://www.smart-investigator.com/) - Event Identification and Management (Commercial)
+- [cPacket](https://www.cpacket.com) - cPacket Networks provides performance monitoring solutions that deliver real-time analysis and coverage (Commercial)
+
 
 ### Management
 - [phpipam](https://phpipam.net/) - phpipam is an open-source web IP address management application (IPAM)
 - [nsot](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database
 - [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+#### Documentation
+- [ITGlue](https://www.itglue.com/) - IT focused documentation solution (Commercial)
