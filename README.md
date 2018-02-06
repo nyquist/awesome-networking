@@ -19,6 +19,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
   - [DevOps Tools](#devops-tools)
   - [DevOps Monitoring](#devops-monitoring)
   - [DevOps Knowledgebase](#devops-knowledgebase)
+  - [DevOps Inventory](#devops-inventory)
 
 # Network Design Resources
 - [Cisco Design Zone](https://www.cisco.com/c/en/us/solutions/design-zone.html#~stickynav=1) - Cisco Design Guides
@@ -84,5 +85,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
 
 ### DevOps Knowledgebase
 - [ITGlue](https://www.itglue.com/) - IT focused documentation solution (Commercial)
+
+### DevOps Inventory
+- [Snipe IT](https://snipeitapp.com/) - Open Source Asset Management
+
 
 
