@@ -37,6 +37,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
 - [Pi-Hole](https://pi-hole.net/) - Network-wide ad blocking via your own Linux hardware
 
 ## Network Simulators and Traffic Generators
+- [GNS3](https://www.gns3.com/) - Graphical Network Simulator-3 is a network software emulator first released in 2008. It allows the combination of virtual and real devices, used to simulate complex networks. It uses Dynamips emulation software to simulate Cisco IOS
 - [Mininet](http://mininet.org/) - An Instant Virtual Network on your Laptop
 - [WANem](http://wanem.sourceforge.net/) - WANem is a Wide Area Network Emulator
 - [Ostinato](https://ostinato.org/) - Ostinato is a packet crafter, network traffic generator and analyzer with a friendly GUI
