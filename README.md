@@ -32,6 +32,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
 ## VPN
 - [PiVPN](http://www.pivpn.io/) - Simplest OpenVPN setup and configuration, designed for Raspberry Pi.
 
+## Network Services
+- [Pi-Hole](https://pi-hole.net/) - Network-wide ad blocking via your own Linux hardware
+
 ## Network Simulators and Traffic Generators
 - [Mininet](http://mininet.org/) - An Instant Virtual Network on your Laptop
 - [WANem](http://wanem.sourceforge.net/) - WANem is a Wide Area Network Emulator
