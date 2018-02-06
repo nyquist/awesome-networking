@@ -8,6 +8,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
     - [SD-WAN](#sd-wan)
   - [Switching](#switching)
   - [VPN](#vpn)
+  - [Network Services](#network-services)
   - [Network Simulators and Traffic Generators](#network-simulators-and-traffic-generators)
 - [Network Operations](#network-operations)
   - [Network Automation](#network-automation)
