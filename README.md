@@ -82,6 +82,10 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
 - [monit](https://mmonit.com/monit/) - Monit is a small Open Source utility for managing and monitoring Unix systems. Monit conducts automatic maintnance and repair and can execute meaningful causal actions in error situations.
 - [Prometheus](https://prometheus.io/) - Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud
 - [sensu](https://sensuapp.org/) - Monitor servers, services, application health, and business KPIs. Collect and analyze custom metrics. Get notified about failures before your users do. Give your business the competitive advantage it deserves. (Open Source or Commercial)
+- ELK Stack
+  - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine 
+  - [LogStash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
+  - [Kibana](https://github.com/elastic/kibana) - Kibana analytics and search dashboard for Elasticsearch
 
 ### DevOps Knowledgebase
 - [ITGlue](https://www.itglue.com/) - IT focused documentation solution (Commercial)
