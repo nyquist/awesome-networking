@@ -50,6 +50,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
 - [Napalm](https://napalm-automation.net/) - Napalm is a vendor neutral, cross-platform open source project that provides a unified API to network devices
 - [netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
 - [trigger](https://github.com/trigger/trigger) - Trigger is a robust network automation toolkit written in Python that was designed for interfacing with network devices.
+- [Ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
 
 ## Network Monitoring
 - [perfSONAR](https://www.perfsonar.net) - perfSONAR is a network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations
