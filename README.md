@@ -44,6 +44,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
 - [Ostinato](https://ostinato.org/) - Ostinato is a packet crafter, network traffic generator and analyzer with a friendly GUI
 - [SIPp](http://sipp.sourceforge.net/index.html) - SIPp is a free Open Source test tool / traffic generator for the SIP protocol.
 - [StarTrinity SIP Tester™](http://startrinity.com/VoIP/SipTester/SipTester.aspx) - (call generator, simulator) - VoIP monitoring and testing tool, VoIP recorder
+- [Multi-Generator](https://www.nrl.navy.mil/itd/ncs/products/mgen) - Multi-Generator (MGEN) is open source software that provides the ability to perform IP network performance tests and measurements using TCP and UDP/IP traffic.
 
 # Network Operations
 ## Network Automation
