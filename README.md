@@ -60,6 +60,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
 - [Forward Networks](https://www.forwardnetworks.com/) - Network Behavior Analysis (Commercial)
 - [ToDD](https://github.com/toddproject/todd) - "Testing on Demand: Distributed!"
 - [pmacct](http://www.pmacct.net/) - pmacct is a small set of multi-purpose passive network monitoring tools
+- [LibreNMS](https://www.librenms.org/) - a fully featured network monitoring system that provides a wealth of features and device suppor
+- [Observium](http://observium.org/) - a low-maintenance auto-discovering network monitoring platform
 
 ## Security Monitoring
 - [Smart Investigator](http://www.smart-investigator.com/) - Event Identification and Management (Commercial)
