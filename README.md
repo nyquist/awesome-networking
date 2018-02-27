@@ -11,15 +11,16 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
   - [Network Services](#network-services)
   - [Network Simulators and Traffic Generators](#network-simulators-and-traffic-generators)
 - [Network Operations](#network-operations)
+  - [Network Change Management](#network-change-management)
   - [Network Automation](#network-automation)
   - [Network Monitoring](#network-monitoring)
   - [Security Monitoring](#security-monitoring)
   - [Network Inventory](#network-inventory) 
 - [Related resources](#related-resources)
-  - [DevOps Tools](#devops-tools)
-  - [DevOps Monitoring](#devops-monitoring)
-  - [DevOps Knowledgebase](#devops-knowledgebase)
-  - [DevOps Inventory](#devops-inventory)
+  - [DevNet Tools](#devnet-tools)
+  - [DevNet Monitoring](#devnet-monitoring)
+  - [DevNet Knowledgebase](#devnet-knowledgebase)
+  - [DevNet Inventory](#devnet-inventory)
 
 # Network Design Resources
 - [Cisco Design Zone](https://www.cisco.com/c/en/us/solutions/design-zone.html#~stickynav=1) - Cisco Design Guides
