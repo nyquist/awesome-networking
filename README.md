@@ -47,6 +47,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
 - [Multi-Generator](https://www.nrl.navy.mil/itd/ncs/products/mgen) - Multi-Generator (MGEN) is open source software that provides the ability to perform IP network performance tests and measurements using TCP and UDP/IP traffic.
 
 # Network Operations
+## Network Change Management
+- [Batfish](https://github.com/batfish/batfish) - a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations
 ## Network Automation
 - [Napalm](https://napalm-automation.net/) - Napalm is a vendor neutral, cross-platform open source project that provides a unified API to network devices
 - [netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
@@ -75,12 +77,12 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
 
 
 # Related resources
-## DevOps Tools
+## DevNet Tools
 - [Celery](http://www.celeryproject.org/) - Celery is an asynchronous task queue/job queue based on distributed message passing.	It is focused on real-time operation, but supports scheduling as well.
 - [Ajenti](http://ajenti.org/) - An admin's tool for a more civilized age, providing you with a fast and secure way to manage a remote Linux box at any time using everyday tools like a web terminal, text editor, file manager and others.
 - [ProxMox Virtualiation Platform](https://www.proxmox.com/en/proxmox-ve) - Proxmox VE is a complete open-source platform for all-inclusive enterprise virtualization that tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking functionality on a single platform, and easily manages high availability clusters and disaster recovery tools with the built-in web management interface.
 
-## DevOps Monitoring
+## DevNet Monitoring
 - [netdata](https://github.com/firehol/netdata) - netdata is a system for distributed real-time performance and health monitoring.
 - [Grafana](https://grafana.com/) - open source software for time series analytics
 - [monit](https://mmonit.com/monit/) - Monit is a small Open Source utility for managing and monitoring Unix systems. Monit conducts automatic maintnance and repair and can execute meaningful causal actions in error situations.
@@ -90,11 +92,12 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
   - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine 
   - [LogStash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
   - [Kibana](https://github.com/elastic/kibana) - Kibana analytics and search dashboard for Elasticsearch
+- [Graylog](https://www.graylog.org/) - Parse and enrich logs, wire data, and event data from any data source (Commercial, Free for less than 5GB/day)
 
-### DevOps Knowledgebase
+### DevNet Knowledgebase
 - [ITGlue](https://www.itglue.com/) - IT focused documentation solution (Commercial)
 
-### DevOps Inventory
+### DevNet Inventory
 - [Snipe IT](https://snipeitapp.com/) - Open Source Asset Management
 
 
