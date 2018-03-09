@@ -21,13 +21,21 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
   - [DevNet Monitoring](#devnet-monitoring)
   - [DevNet Knowledgebase](#devnet-knowledgebase)
   - [DevNet Inventory](#devnet-inventory)
+  
 
 # Network Design Resources
-- [Cisco Design Zone](https://www.cisco.com/c/en/us/solutions/design-zone.html#~stickynav=1) - Cisco Design Guides
+- [Cisco Design Zone](https://www.cisco.com/c/en/us/solutions/design-zone.html#~stickynav=1)
+- [Cumulus Networks Validated Design Guides](https://cumulusnetworks.com/learn/web-scale-networking-resources/?validated-design-guides) 
+- [Juniper Solution Center](https://www.juniper.net/documentation/en_US/release-independent/solutions/information-products/pathway-pages/solutions/index.html)
+
+
 
 # Network Implementation
 ## Routing
+- [Free Range Routing](https://frrouting.org/) - FRRouting (FRR) is an IP routing protocol suite for Linux and Unix platforms which
+includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [VyOS](https://vyos.io/) - VyOS is an open source network operating system that can be installed on physical hardware or a virtual machine on your own server, or a cloud platform
+
 ### SD-WAN
 - [Silver Peak](https://www.silver-peak.com/) - SD-WAN Solution(Commercial)
 ## Switching
@@ -70,6 +78,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
 - [Smart Investigator](http://www.smart-investigator.com/) - Event Identification and Management (Commercial)
 - [cPacket](https://www.cpacket.com) - cPacket Networks provides performance monitoring solutions that deliver real-time analysis and coverage (Commercial)
 - [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway) - Proxmox Mail Gateway is the leading open-source email security solution helping you to protect your mail server against all email threats the moment they emerge.
+- [FastNetMon](https://fastnetmon.com/) - DDoS detection tool (Open Source or Commercial)
 
 ## Network Inventory
 - [phpipam](https://phpipam.net/) - phpipam is an open-source web IP address management application (IPAM)
@@ -101,5 +110,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
 ### DevNet Inventory
 - [Snipe IT](https://snipeitapp.com/) - Open Source Asset Management
 
-
+### Knowledge Resources
+- [Packet Pushers Podcast](http://packetpushers.net/) - Podcast about data networking by network architects. Deeply technical & unabashedly nerdy.
+- [Risky Business Podcast](https://risky.biz/) - Risky Business podcast features news and in-depth commentary from security industry luminaries
 
