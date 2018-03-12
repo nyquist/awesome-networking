@@ -32,85 +32,85 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
 
 # Network Implementation
 ## Routing
-- [Free Range Routing](https://frrouting.org/) - FRRouting (FRR) is an IP routing protocol suite for Linux and Unix platforms which
+- [Free Range Routing](https://frrouting.org/) - IP routing protocol suite for Linux and Unix platforms which
 includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
-- [VyOS](https://vyos.io/) - VyOS is an open source network operating system that can be installed on physical hardware or a virtual machine on your own server, or a cloud platform
+- [VyOS](https://vyos.io/) - Open source network operating system that can be installed on physical hardware or a virtual machine on your own server, or a cloud platform.
 
 ### SD-WAN
-- [Silver Peak](https://www.silver-peak.com/) - SD-WAN Solution(Commercial)
+- [Silver Peak](https://www.silver-peak.com/) - SD-WAN Solution(Commercial).
 ## Switching
 
 ## VPN
 - [PiVPN](http://www.pivpn.io/) - Simplest OpenVPN setup and configuration, designed for Raspberry Pi.
 
 ## Network Services
-- [Pi-Hole](https://pi-hole.net/) - Network-wide ad blocking via your own Linux hardware
+- [Pi-Hole](https://pi-hole.net/) - Network-wide ad blocking via your own Linux hardware.
 
 ## Network Simulators and Traffic Generators
-- [GNS3](https://www.gns3.com/) - Graphical Network Simulator-3 is a network software emulator first released in 2008. It allows the combination of virtual and real devices, used to simulate complex networks. It uses Dynamips emulation software to simulate Cisco IOS
-- [Mininet](http://mininet.org/) - An Instant Virtual Network on your Laptop
-- [WANem](http://wanem.sourceforge.net/) - WANem is a Wide Area Network Emulator
-- [Ostinato](https://ostinato.org/) - Ostinato is a packet crafter, network traffic generator and analyzer with a friendly GUI
-- [SIPp](http://sipp.sourceforge.net/index.html) - SIPp is a free Open Source test tool / traffic generator for the SIP protocol.
-- [StarTrinity SIP Tester™](http://startrinity.com/VoIP/SipTester/SipTester.aspx) - (call generator, simulator) - VoIP monitoring and testing tool, VoIP recorder
-- [Multi-Generator](https://www.nrl.navy.mil/itd/ncs/products/mgen) - Multi-Generator (MGEN) is open source software that provides the ability to perform IP network performance tests and measurements using TCP and UDP/IP traffic.
+- [GNS3](https://www.gns3.com/) - Network software emulator that allows the combination of virtual and real devices, used to simulate complex networks.
+- [Mininet](http://mininet.org/) - Instant Virtual Network on your Laptop.
+- [WANem](http://wanem.sourceforge.net/) - Wide Area Network Emulator.
+- [Ostinato](https://ostinato.org/) - Packet crafter, network traffic generator and analyzer with a friendly GUI.
+- [SIPp](http://sipp.sourceforge.net/index.html) - Free Open Source test tool / traffic generator for the SIP protocol.
+- [StarTrinity SIP Tester™](http://startrinity.com/VoIP/SipTester/SipTester.aspx) - VoIP monitoring and testing tool, VoIP recorder.
+- [Multi-Generator](https://www.nrl.navy.mil/itd/ncs/products/mgen) - Open source software that provides the ability to perform IP network performance tests and measurements using TCP and UDP/IP traffic.
 
 # Network Operations
 ## Network Change Management
-- [Batfish](https://github.com/batfish/batfish) - a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations
+- [Batfish](https://github.com/batfish/batfish) - Network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations.
 ## Network Automation
-- [Napalm](https://napalm-automation.net/) - Napalm is a vendor neutral, cross-platform open source project that provides a unified API to network devices
-- [netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
-- [trigger](https://github.com/trigger/trigger) - Trigger is a robust network automation toolkit written in Python that was designed for interfacing with network devices.
-- [Ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+- [Napalm](https://napalm-automation.net/) - Vendor neutral, cross-platform open source project that provides a unified API to network devices.
+- [netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
+- [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python that was designed for interfacing with network devices.
+- [Ansible](https://github.com/ansible/ansible) - IT automation platform that makes your applications and systems easier to deploy by using SSH, with no agents to install on remote systems.
 
 ## Network Monitoring
-- [perfSONAR](https://www.perfsonar.net) - perfSONAR is a network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations
-- [UDPing](https://github.com/yahoo/UDPing) - The purpose of UDPing is to measure latency and packet loss across a link
-- [veryflow](https://www.veriflow.net/) - continuous network verification
-- [Forward Networks](https://www.forwardnetworks.com/) - Network Behavior Analysis (Commercial)
-- [ToDD](https://github.com/toddproject/todd) - "Testing on Demand: Distributed!"
-- [pmacct](http://www.pmacct.net/) - pmacct is a small set of multi-purpose passive network monitoring tools
-- [LibreNMS](https://www.librenms.org/) - a fully featured network monitoring system that provides a wealth of features and device suppor
-- [Observium](http://observium.org/) - a low-maintenance auto-discovering network monitoring platform
+- [perfSONAR](https://www.perfsonar.net) - Network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations.
+- [UDPing](https://github.com/yahoo/UDPing) - Measure latency and packet loss across a link.
+- [veryflow](https://www.veriflow.net/) - Continuous network verification system.
+- [Forward Networks](https://www.forwardnetworks.com/) - Network Behavior Analysis (Commercial).
+- [ToDD](https://github.com/toddproject/todd) - Distributed, testing-on-demand system focused on testing network related conditions.
+- [pmacct](http://www.pmacct.net/) - Small set of multi-purpose passive network monitoring tools, including Netflow or IPFIX generation.
+- [LibreNMS](https://www.librenms.org/) - Network monitoring system that supports automatic discovery, alerting, distributed polling and others.
+- [Observium](http://observium.org/) - Low-maintenance auto-discovering network monitoring platform.
 
 ## Security Monitoring
-- [Smart Investigator](http://www.smart-investigator.com/) - Event Identification and Management (Commercial)
-- [cPacket](https://www.cpacket.com) - cPacket Networks provides performance monitoring solutions that deliver real-time analysis and coverage (Commercial)
-- [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway) - Proxmox Mail Gateway is the leading open-source email security solution helping you to protect your mail server against all email threats the moment they emerge.
-- [FastNetMon](https://fastnetmon.com/) - DDoS detection tool (Open Source or Commercial)
+- [Smart Investigator](http://www.smart-investigator.com/) - Event Identification and Management (Commercial).
+- [cPacket](https://www.cpacket.com) - Performance monitoring solutions that deliver real-time analysis and coverage (Commercial).
+- [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway) - Open-source email security solution helping you to protect your mail server against all email threats the moment they emerge.
+- [FastNetMon](https://fastnetmon.com/) - DDoS detection tool (Open Source or Commercial).
 
 ## Network Inventory
-- [phpipam](https://phpipam.net/) - phpipam is an open-source web IP address management application (IPAM)
-- [nsot](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database
+- [phpipam](https://phpipam.net/) - Open-source web IP address management application (IPAM).
+- [nsot](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database.
 - [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 
 
 # Related resources
 ## DevNet Tools
-- [Celery](http://www.celeryproject.org/) - Celery is an asynchronous task queue/job queue based on distributed message passing.	It is focused on real-time operation, but supports scheduling as well.
-- [Ajenti](http://ajenti.org/) - An admin's tool for a more civilized age, providing you with a fast and secure way to manage a remote Linux box at any time using everyday tools like a web terminal, text editor, file manager and others.
-- [ProxMox Virtualiation Platform](https://www.proxmox.com/en/proxmox-ve) - Proxmox VE is a complete open-source platform for all-inclusive enterprise virtualization that tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking functionality on a single platform, and easily manages high availability clusters and disaster recovery tools with the built-in web management interface.
+- [Celery](http://www.celeryproject.org/) - Asynchronous task queue/job queue based on distributed message passing.	It is focused on real-time operation, but supports scheduling as well.
+- [Ajenti](http://ajenti.org/) - Manage a remote Linux box at any time using everyday tools like a web terminal, text editor, file manager and others.
+- [ProxMox Virtualiation Platform](https://www.proxmox.com/en/proxmox-ve) - Open-source platform for enterprise virtualization that tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking functionality on a single platform, and easily manages high availability clusters and disaster recovery tools with the built-in web management interface.
 
 ## DevNet Monitoring
-- [netdata](https://github.com/firehol/netdata) - netdata is a system for distributed real-time performance and health monitoring.
-- [Grafana](https://grafana.com/) - open source software for time series analytics
-- [monit](https://mmonit.com/monit/) - Monit is a small Open Source utility for managing and monitoring Unix systems. Monit conducts automatic maintnance and repair and can execute meaningful causal actions in error situations.
-- [Prometheus](https://prometheus.io/) - Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud
+- [netdata](https://github.com/firehol/netdata) - Distributed real-time performance and health monitoring.
+- [Grafana](https://grafana.com/) - Open source software for time series analytics.
+- [monit](https://mmonit.com/monit/) -Small Open Source utility for managing and monitoring Unix systems. Monit conducts automatic maintnance and repair and can execute meaningful causal actions in error situations.
+- [Prometheus](https://prometheus.io/) - Open-source systems monitoring and alerting toolkit originally built at SoundCloud.
 - [sensu](https://sensuapp.org/) - Monitor servers, services, application health, and business KPIs. Collect and analyze custom metrics. Get notified about failures before your users do. Give your business the competitive advantage it deserves. (Open Source or Commercial)
 - ELK Stack
-  - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine 
-  - [LogStash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
-  - [Kibana](https://github.com/elastic/kibana) - Kibana analytics and search dashboard for Elasticsearch
-- [Graylog](https://www.graylog.org/) - Parse and enrich logs, wire data, and event data from any data source (Commercial, Free for less than 5GB/day)
+  - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
+  - [LogStash](https://github.com/elastic/logstash) - Transport and process your logs, events, or other data.
+  - [Kibana](https://github.com/elastic/kibana) - Analytics and search dashboard for Elasticsearch.
+- [Graylog](https://www.graylog.org/) - Parse and enrich logs, wire data, and event data from any data source (Commercial, Free for less than 5GB/day).
 
 ### DevNet Knowledgebase
-- [ITGlue](https://www.itglue.com/) - IT focused documentation solution (Commercial)
+- [ITGlue](https://www.itglue.com/) - IT focused documentation solution (Commercial).
 
 ### DevNet Inventory
-- [Snipe IT](https://snipeitapp.com/) - Open Source Asset Management
+- [Snipe IT](https://snipeitapp.com/) - Open Source Asset Management tool.
 
 ### Knowledge Resources
 - [Packet Pushers Podcast](http://packetpushers.net/) - Podcast about data networking by network architects. Deeply technical & unabashedly nerdy.
-- [Risky Business Podcast](https://risky.biz/) - Risky Business podcast features news and in-depth commentary from security industry luminaries
+- [Risky Business Podcast](https://risky.biz/) - Features news and in-depth commentary from security industry luminaries.
 
