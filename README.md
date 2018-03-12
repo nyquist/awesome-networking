@@ -5,7 +5,6 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
 - [Network Design Resources](#network-design-resources)
 - [Network Implementation](#network-implementation)
   - [Routing](#routing)
-    - [SD-WAN](#sd-wan)
   - [Switching](#switching)
   - [VPN](#vpn)
   - [Network Services](#network-services)
@@ -21,6 +20,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
   - [DevNet Monitoring](#devnet-monitoring)
   - [DevNet Knowledgebase](#devnet-knowledgebase)
   - [DevNet Inventory](#devnet-inventory)
+  - [Knowledge Resources](#knowledge-resources)
   
 
 # Network Design Resources
