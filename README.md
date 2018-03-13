@@ -1,4 +1,4 @@
-# Awesome Networking Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Computer Networking Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 An [awesome list](https://github.com/sindresorhus/awesome) of resources to design, implement and operate computer networks.
 
 # Contents
