@@ -58,6 +58,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 # Network Operations
 ## Network Change Management
 - [Batfish](https://github.com/batfish/batfish) - Network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations.
+- [Oxidized](https://github.com/ytti/oxidized) - Network device configuration backup tool. It's a [RANCID](http://www.shrubbery.net/rancid/) replacement.
 ## Network Automation
 - [Napalm](https://napalm-automation.net/) - Vendor neutral, cross-platform open source project that provides a unified API to network devices.
 - [netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
