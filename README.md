@@ -54,6 +54,8 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [SIPp](http://sipp.sourceforge.net/index.html) - Free Open Source test tool / traffic generator for the SIP protocol.
 - [StarTrinity SIP Tester™](http://startrinity.com/VoIP/SipTester/SipTester.aspx) - VoIP monitoring and testing tool, VoIP recorder.
 - [Multi-Generator](https://www.nrl.navy.mil/itd/ncs/products/mgen) - Open source software that provides the ability to perform IP network performance tests and measurements using TCP and UDP/IP traffic.
+- [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit uplink and downlink bandwidth, delay and loss rate on selected interfaces.
+
 
 # Network Operations
 ## Network Change Management
