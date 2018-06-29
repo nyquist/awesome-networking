@@ -39,6 +39,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 ### SD-WAN
 - [Silver Peak](https://www.silver-peak.com/) - SD-WAN Solution(Commercial).
 ## Switching
+- [snabb](https://github.com/snabbco/snabb) - Snabb (formerly "Snabb Switch") is a simple and fast packet networking toolkit.
 
 ## VPN
 - [PiVPN](http://www.pivpn.io/) - Simplest OpenVPN setup and configuration, designed for Raspberry Pi.
@@ -55,6 +56,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [StarTrinity SIP Tester™](http://startrinity.com/VoIP/SipTester/SipTester.aspx) - VoIP monitoring and testing tool, VoIP recorder.
 - [Multi-Generator](https://www.nrl.navy.mil/itd/ncs/products/mgen) - Open source software that provides the ability to perform IP network performance tests and measurements using TCP and UDP/IP traffic.
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit uplink and downlink bandwidth, delay and loss rate on selected interfaces.
+- [snabb](https://github.com/snabbco/snabb) - Snabb (formerly "Snabb Switch") is a simple and fast packet networking toolkit.
 
 
 # Network Operations
@@ -67,6 +69,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
 - [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python that was designed for interfacing with network devices.
 - [Ansible](https://github.com/ansible/ansible) - IT automation platform that makes your applications and systems easier to deploy by using SSH, with no agents to install on remote systems.
+- [nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
 
 ## Network Monitoring
 - [perfSONAR](https://www.perfsonar.net) - Network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations.
@@ -83,18 +86,20 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [cPacket](https://www.cpacket.com) - Performance monitoring solutions that deliver real-time analysis and coverage (Commercial).
 - [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway) - Open-source email security solution helping you to protect your mail server against all email threats the moment they emerge.
 - [FastNetMon](https://fastnetmon.com/) - DDoS detection tool (Open Source or Commercial).
+- [PyREBox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU
 
 ## Network Inventory
 - [phpipam](https://phpipam.net/) - Open-source web IP address management application (IPAM).
 - [nsot](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database.
 - [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
-
+- [nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
 
 # Related resources
 ## DevNet Tools
 - [Celery](http://www.celeryproject.org/) - Asynchronous task queue/job queue based on distributed message passing.	It is focused on real-time operation, but supports scheduling as well.
 - [Ajenti](http://ajenti.org/) - Manage a remote Linux box at any time using everyday tools like a web terminal, text editor, file manager and others.
 - [ProxMox Virtualiation Platform](https://www.proxmox.com/en/proxmox-ve) - Open-source platform for enterprise virtualization that tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking functionality on a single platform, and easily manages high availability clusters and disaster recovery tools with the built-in web management interface.
+- [ops_tcpdump_handler](https://github.com/cerner/ops_tcpdump_handler) - Chef Cookbook to test network connectivity 
 
 ## DevNet Monitoring
 - [netdata](https://github.com/firehol/netdata) - Distributed real-time performance and health monitoring.
@@ -117,4 +122,5 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 ### Knowledge Resources
 - [Packet Pushers Podcast](http://packetpushers.net/) - Podcast about data networking by network architects. Deeply technical & unabashedly nerdy.
 - [Risky Business Podcast](https://risky.biz/) - Features news and in-depth commentary from security industry luminaries.
+- [Cisco DevNet Basics](https://developer.cisco.com/video/net-prog-basics) - Learn network programmability basics
 
