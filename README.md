@@ -74,6 +74,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 ## Network Monitoring
 - [perfSONAR](https://www.perfsonar.net) - Network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations.
 - [UDPing](https://github.com/yahoo/UDPing) - Measure latency and packet loss across a link.
+- [Vaping](https://github.com/20c/vaping) - vaping is a healthy alternative to smokeping!
 - [veryflow](https://www.veriflow.net/) - Continuous network verification system.
 - [Forward Networks](https://www.forwardnetworks.com/) - Network Behavior Analysis (Commercial).
 - [ToDD](https://github.com/toddproject/todd) - Distributed, testing-on-demand system focused on testing network related conditions.
