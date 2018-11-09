@@ -64,6 +64,10 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Batfish](https://github.com/batfish/batfish) - Network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations.
 - [Oxidized](https://github.com/ytti/oxidized) - Network device configuration backup tool. It's a [RANCID](http://www.shrubbery.net/rancid/) replacement.
 - [Netshot](http://www.netfishers.onl/netshot) - Network configuration and compliance management software.
+- [Jazigo](https://github.com/udhos/jazigo) - Jazigo is a tool written in Go for retrieving configuration for multiple devices, similar to rancid, fetchconfig, oxidized, Sweet.
+- [fetchconfig](https://github.com/udhos/fetchconfig) - fetchconfig is a Perl script for retrieving configuration of
+	multiple devices
+- [sweet](https://github.com/AppliedTrust/sweet) - Network device configuration backups and change alerts for the 21st century - inspired by RANCID!
 ## Network Automation
 - [Napalm](https://napalm-automation.net/) - Vendor neutral, cross-platform open source project that provides a unified API to network devices.
 - [netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
