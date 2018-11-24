@@ -57,6 +57,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Multi-Generator](https://www.nrl.navy.mil/itd/ncs/products/mgen) - Open source software that provides the ability to perform IP network performance tests and measurements using TCP and UDP/IP traffic.
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit uplink and downlink bandwidth, delay and loss rate on selected interfaces.
 - [snabb](https://github.com/snabbco/snabb) - Snabb (formerly "Snabb Switch") is a simple and fast packet networking toolkit.
+- [vqfx10k-vagrant](https://github.com/juniper/vqfx10k-vagrant) - Vagrant files to bring up Juniper virtual QFX instances
 
 
 # Network Operations
@@ -92,6 +93,8 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway) - Open-source email security solution helping you to protect your mail server against all email threats the moment they emerge.
 - [FastNetMon](https://fastnetmon.com/) - DDoS detection tool (Open Source or Commercial).
 - [PyREBox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU
+- [Canary](https://canary.tools/) - Honeypot solution (commercial)
+- [CanaryTokens](https://canarytokens.org/generate) - Free honeytoken
 
 ## Network Inventory
 - [phpipam](https://phpipam.net/) - Open-source web IP address management application (IPAM).
