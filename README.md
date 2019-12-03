@@ -95,6 +95,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [PyREBox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU
 - [Canary](https://canary.tools/) - Honeypot solution (commercial)
 - [CanaryTokens](https://canarytokens.org/generate) - Free honeytoken
+- [Malcolm](https://github.com/idaholab/Malcolm) - Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs.
 
 ## Network Inventory
 - [phpipam](https://phpipam.net/) - Open-source web IP address management application (IPAM).
