@@ -130,5 +130,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 ### Knowledge Resources
 - [Packet Pushers Podcast](http://packetpushers.net/) - Podcast about data networking by network architects. Deeply technical & unabashedly nerdy.
 - [Risky Business Podcast](https://risky.biz/) - Features news and in-depth commentary from security industry luminaries.
+- [Software Gone Wild Podcast](https://www.ipspace.net/Podcast/Software_Gone_Wild/) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks
 - [Cisco DevNet Basics](https://developer.cisco.com/video/net-prog-basics) - Learn network programmability basics
+
 
