@@ -102,6 +102,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 - [nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
 - [ipfabric](https://ipfabric.io/product/network-mapping) - Network Topology Mapping & Visualization (Commercial)
+- [drawthe.net](https://github.com/cidrblock/drawthe.net) - Draws network diagrams dynamically from a text file describing the placement, layout and icons.
 
 # Related resources
 ## DevNet Tools
