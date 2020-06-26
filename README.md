@@ -69,12 +69,16 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [fetchconfig](https://github.com/udhos/fetchconfig) - fetchconfig is a Perl script for retrieving configuration of
 	multiple devices
 - [sweet](https://github.com/AppliedTrust/sweet) - Network device configuration backups and change alerts for the 21st century - inspired by RANCID!
+- [stockpiler](https://github.com/lykinsbd/stockpiler) - Stockpiler gathers network device configurations and stores them in a local Git repository.
+
 ## Network Automation
 - [Napalm](https://napalm-automation.net/) - Vendor neutral, cross-platform open source project that provides a unified API to network devices.
 - [netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
 - [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python that was designed for interfacing with network devices.
 - [Ansible](https://github.com/ansible/ansible) - IT automation platform that makes your applications and systems easier to deploy by using SSH, with no agents to install on remote systems.
 - [nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
+- [CNaaS-NMS](https://github.com/SUNET/cnaas-nms) - Campus Network-as-a-Service - Network Management System. Software to automate management of a campus network (LAN).
+- [pyats](https://developer.cisco.com/pyats/) - pyATS enable network engineers to perform stateful validation of their device operational status
 
 ## Network Monitoring
 - [perfSONAR](https://www.perfsonar.net) - Network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations.
@@ -101,7 +105,6 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [phpipam](https://phpipam.net/) - Open-source web IP address management application (IPAM).
 - [nsot](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database.
 - [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
-- [nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
 - [ipfabric](https://ipfabric.io/product/network-mapping) - Network Topology Mapping & Visualization (Commercial)
 - [drawthe.net](https://github.com/cidrblock/drawthe.net) - Draws network diagrams dynamically from a text file describing the placement, layout and icons.
 
