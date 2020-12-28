@@ -60,6 +60,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [vqfx10k-vagrant](https://github.com/juniper/vqfx10k-vagrant) - Vagrant files to bring up Juniper virtual QFX instances
 - [Packet Communication Investigator](https://github.com/michoo/pci) - import network traffic into a graphtool to analyse packet interactions between machines and network
 - [SafePcap](https://omnipacket.com/safepcap) - GDPR and NISTIR 8053 Compliance for your Pcap files
+- [Arkime](https://github.com/arkime/arkime) - Arkime augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access
 
 
 
@@ -122,6 +123,11 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Ajenti](http://ajenti.org/) - Manage a remote Linux box at any time using everyday tools like a web terminal, text editor, file manager and others.
 - [ProxMox Virtualiation Platform](https://www.proxmox.com/en/proxmox-ve) - Open-source platform for enterprise virtualization that tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking functionality on a single platform, and easily manages high availability clusters and disaster recovery tools with the built-in web management interface.
 - [ops_tcpdump_handler](https://github.com/cerner/ops_tcpdump_handler) - Chef Cookbook to test network connectivity 
+- [chromaterm](https://github.com/hSaria/ChromaTerm) - ChromaTerm is a Python module and script used for coloring the output to terminals
+- [telnetmyip.com]http://telnetmyip.com/) - Simple service that returns your source IP information in a json format
+- [icanhaztraceroute.com](http://icanhaztraceroute.com/) - Simple service that returns a traceroute back to your source IP
+- [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
+
 
 ## DevNet Monitoring
 - [netdata](https://github.com/firehol/netdata) - Distributed real-time performance and health monitoring.
@@ -146,5 +152,6 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Risky Business Podcast](https://risky.biz/) - Features news and in-depth commentary from security industry luminaries.
 - [Software Gone Wild Podcast](https://www.ipspace.net/Podcast/Software_Gone_Wild/) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks
 - [Cisco DevNet Basics](https://developer.cisco.com/video/net-prog-basics) - Learn network programmability basics
+- [Cisco Tools](https://www.cisco.com/c/en/us/support/web/tools-catalog.html) - List of Cisco tools maintained by Cisco
 
 
