@@ -61,6 +61,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Packet Communication Investigator](https://github.com/michoo/pci) - import network traffic into a graphtool to analyse packet interactions between machines and network
 - [SafePcap](https://omnipacket.com/safepcap) - GDPR and NISTIR 8053 Compliance for your Pcap files
 - [Arkime](https://github.com/arkime/arkime) - Arkime augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access
+- [pyNTM](https://pyntm.readthedocs.io/en/latest/index.html) - a network traffic modeler written in python 3.
 
 
 
