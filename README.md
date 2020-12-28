@@ -97,6 +97,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [pmacct](http://www.pmacct.net/) - Small set of multi-purpose passive network monitoring tools, including Netflow or IPFIX generation.
 - [LibreNMS](https://www.librenms.org/) - Network monitoring system that supports automatic discovery, alerting, distributed polling and others.
 - [Observium](http://observium.org/) - Low-maintenance auto-discovering network monitoring platform.
+- [Elastiflow](https://github.com/robcowart/elastiflow) - Netflow collector and reporting
 
 ## Security Monitoring
 - [Smart Investigator](http://www.smart-investigator.com/) - Event Identification and Management (Commercial).
