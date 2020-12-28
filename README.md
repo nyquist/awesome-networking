@@ -83,6 +83,9 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
 - [CNaaS-NMS](https://github.com/SUNET/cnaas-nms) - Campus Network-as-a-Service - Network Management System. Software to automate management of a campus network (LAN).
 - [pyats](https://developer.cisco.com/pyats/) - pyATS enable network engineers to perform stateful validation of their device operational status
+- [itential.com](https://www.itential.com/) - ow-Code Automation for Physical, Virtual, and Cloud Networks(commercial)
+- [AWX](https://github.com/ansible/awx) - the upstream project for Tower, a commercial derivative of AWX.
+- [Unimus](https://unimus.net/) Unimus makes Network Automation and Configuration Management easy (commercial)
 
 ## Network Monitoring
 - [perfSONAR](https://www.perfsonar.net) - Network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations.
