@@ -58,6 +58,9 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit uplink and downlink bandwidth, delay and loss rate on selected interfaces.
 - [snabb](https://github.com/snabbco/snabb) - Snabb (formerly "Snabb Switch") is a simple and fast packet networking toolkit.
 - [vqfx10k-vagrant](https://github.com/juniper/vqfx10k-vagrant) - Vagrant files to bring up Juniper virtual QFX instances
+- [Packet Communication Investigator](https://github.com/michoo/pci) - import network traffic into a graphtool to analyse packet interactions between machines and network
+- [SafePcap](https://omnipacket.com/safepcap) - GDPR and NISTIR 8053 Compliance for your Pcap files
+
 
 
 # Network Operations
@@ -107,6 +110,11 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 - [ipfabric](https://ipfabric.io/product/network-mapping) - Network Topology Mapping & Visualization (Commercial)
 - [drawthe.net](https://github.com/cidrblock/drawthe.net) - Draws network diagrams dynamically from a text file describing the placement, layout and icons.
+
+## Networking Labs
+- [VIRL](https://virl.cisco.com) - Virtual Internet Routing Lab by Cisco
+- [dCloud](https://dcloud.cisco.com/) - Fully scripted, customizable environments available almost instantly in the cloud for free
+- [Cisco DevNet Labs](https://developer.cisco.com/site/sandbox/) - https://developer.cisco.com/site/sandbox/
 
 # Related resources
 ## DevNet Tools
