@@ -21,14 +21,11 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
   - [DevNet Knowledgebase](#devnet-knowledgebase)
   - [DevNet Inventory](#devnet-inventory)
   - [Knowledge Resources](#knowledge-resources)
-  
 
 # Network Design Resources
 - [Cisco Design Zone](https://www.cisco.com/c/en/us/solutions/design-zone.html#~stickynav=1)
 - [Cumulus Networks Validated Design Guides](https://cumulusnetworks.com/learn/web-scale-networking-resources/?validated-design-guides) 
 - [Juniper Solution Center](https://www.juniper.net/documentation/en_US/release-independent/solutions/information-products/pathway-pages/solutions/index.html)
-
-
 
 # Network Implementation
 ## Routing
@@ -42,7 +39,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [snabb](https://github.com/snabbco/snabb) - Snabb (formerly "Snabb Switch") is a simple and fast packet networking toolkit.
 
 ## VPN
-- [PiVPN](http://www.pivpn.io/) - Simplest OpenVPN setup and configuration, designed for Raspberry Pi.
+- [PiVPN](https://www.pivpn.io/) - Simplest OpenVPN setup and configuration, designed for Raspberry Pi.
 
 ## Network Services
 - [Pi-Hole](https://pi-hole.net/) - Network-wide ad blocking via your own Linux hardware.
@@ -53,8 +50,8 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [WANem](http://wanem.sourceforge.net/) - Wide Area Network Emulator.
 - [Ostinato](https://ostinato.org/) - Packet crafter, network traffic generator and analyzer with a friendly GUI.
 - [SIPp](http://sipp.sourceforge.net/index.html) - Free Open Source test tool / traffic generator for the SIP protocol.
-- [StarTrinity SIP Tester™](http://startrinity.com/VoIP/SipTester/SipTester.aspx) - VoIP monitoring and testing tool, VoIP recorder.
-- [Multi-Generator](https://www.nrl.navy.mil/itd/ncs/products/mgen) - Open source software that provides the ability to perform IP network performance tests and measurements using TCP and UDP/IP traffic.
+- [StarTrinity SIP Tester™](https://startrinity.com/VoIP/SipTester/SipTester.aspx) - VoIP monitoring and testing tool, VoIP recorder.
+- [Multi-Generator](https://github.com/USNavalResearchLaboratory/mgen) - Open source software that provides the ability to perform IP network performance tests and measurements using TCP and UDP/IP traffic.
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit uplink and downlink bandwidth, delay and loss rate on selected interfaces.
 - [snabb](https://github.com/snabbco/snabb) - Snabb (formerly "Snabb Switch") is a simple and fast packet networking toolkit.
 - [vqfx10k-vagrant](https://github.com/juniper/vqfx10k-vagrant) - Vagrant files to bring up Juniper virtual QFX instances
@@ -63,12 +60,10 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Arkime](https://github.com/arkime/arkime) - Arkime augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access
 - [pyNTM](https://pyntm.readthedocs.io/en/latest/index.html) - a network traffic modeler written in python 3.
 
-
-
 # Network Operations
 ## Network Change Management
 - [Batfish](https://github.com/batfish/batfish) - Network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations.
-- [Oxidized](https://github.com/ytti/oxidized) - Network device configuration backup tool. It's a [RANCID](http://www.shrubbery.net/rancid/) replacement.
+- [Oxidized](https://github.com/ytti/oxidized) - Network device configuration backup tool. It's a [RANCID](https://www.shrubbery.net/rancid/) replacement.
 - [Netshot](http://www.netfishers.onl/netshot) - Network configuration and compliance management software.
 - [Jazigo](https://github.com/udhos/jazigo) - Jazigo is a tool written in Go for retrieving configuration for multiple devices, similar to rancid, fetchconfig, oxidized, Sweet.
 - [fetchconfig](https://github.com/udhos/fetchconfig) - fetchconfig is a Perl script for retrieving configuration of
@@ -97,11 +92,10 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [ToDD](https://github.com/toddproject/todd) - Distributed, testing-on-demand system focused on testing network related conditions.
 - [pmacct](http://www.pmacct.net/) - Small set of multi-purpose passive network monitoring tools, including Netflow or IPFIX generation.
 - [LibreNMS](https://www.librenms.org/) - Network monitoring system that supports automatic discovery, alerting, distributed polling and others.
-- [Observium](http://observium.org/) - Low-maintenance auto-discovering network monitoring platform.
+- [Observium](https://observium.org/) - Low-maintenance auto-discovering network monitoring platform.
 - [Elastiflow](https://github.com/robcowart/elastiflow) - Netflow collector and reporting
 
 ## Security Monitoring
-- [Smart Investigator](http://www.smart-investigator.com/) - Event Identification and Management (Commercial).
 - [cPacket](https://www.cpacket.com) - Performance monitoring solutions that deliver real-time analysis and coverage (Commercial).
 - [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway) - Open-source email security solution helping you to protect your mail server against all email threats the moment they emerge.
 - [FastNetMon](https://fastnetmon.com/) - DDoS detection tool (Open Source or Commercial).
@@ -118,21 +112,22 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [drawthe.net](https://github.com/cidrblock/drawthe.net) - Draws network diagrams dynamically from a text file describing the placement, layout and icons.
 
 ## Networking Labs
-- [VIRL](https://virl.cisco.com) - Virtual Internet Routing Lab by Cisco
+- [VIRL](https://learningnetworkstore.cisco.com/virlfaq) - Virtual Internet Routing Lab by Cisco
 - [dCloud](https://dcloud.cisco.com/) - Fully scripted, customizable environments available almost instantly in the cloud for free
 - [Cisco DevNet Labs](https://developer.cisco.com/site/sandbox/) - https://developer.cisco.com/site/sandbox/
 
 # Related resources
 ## DevNet Tools
-- [Celery](http://www.celeryproject.org/) - Asynchronous task queue/job queue based on distributed message passing.	It is focused on real-time operation, but supports scheduling as well.
-- [Ajenti](http://ajenti.org/) - Manage a remote Linux box at any time using everyday tools like a web terminal, text editor, file manager and others.
+- [Celery](http://www.celeryproject.org/) - Asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well.
+- [Ajenti](https://ajenti.org/) - Manage a remote Linux box at any time using everyday tools like a web terminal, text editor, file manager and others.
 - [ProxMox Virtualiation Platform](https://www.proxmox.com/en/proxmox-ve) - Open-source platform for enterprise virtualization that tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking functionality on a single platform, and easily manages high availability clusters and disaster recovery tools with the built-in web management interface.
 - [ops_tcpdump_handler](https://github.com/cerner/ops_tcpdump_handler) - Chef Cookbook to test network connectivity 
 - [chromaterm](https://github.com/hSaria/ChromaTerm) - ChromaTerm is a Python module and script used for coloring the output to terminals
-- [telnetmyip.com]http://telnetmyip.com/) - Simple service that returns your source IP information in a json format
-- [icanhaztraceroute.com](http://icanhaztraceroute.com/) - Simple service that returns a traceroute back to your source IP
+- [telnetmyip.com](https://telnetmyip.com/) - Simple service that returns your source IP information in a json format
+- [icanhaztraceroute.com](https://icanhaztraceroute.com/) - Simple service that returns a traceroute back to your source IP
+- [Who is my ISP?](https://www.whoismyisp.org) - Simple service that shows the ISP of an IP
+- [NsLookup.io](https://www.nslookup.io) - Simple service that shows all DNS records for a domain name
 - [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
-
 
 ## DevNet Monitoring
 - [netdata](https://github.com/firehol/netdata) - Distributed real-time performance and health monitoring.
@@ -153,7 +148,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Snipe IT](https://snipeitapp.com/) - Open Source Asset Management tool.
 
 ### Knowledge Resources
-- [Packet Pushers Podcast](http://packetpushers.net/) - Podcast about data networking by network architects. Deeply technical & unabashedly nerdy.
+- [Packet Pushers Podcast](https://packetpushers.net/) - Podcast about data networking by network architects. Deeply technical & unabashedly nerdy.
 - [Risky Business Podcast](https://risky.biz/) - Features news and in-depth commentary from security industry luminaries.
 - [Software Gone Wild Podcast](https://www.ipspace.net/Podcast/Software_Gone_Wild/) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks
 - [Cisco DevNet Basics](https://developer.cisco.com/video/net-prog-basics) - Learn network programmability basics
