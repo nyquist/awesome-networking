@@ -103,6 +103,8 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Canary](https://canary.tools/) - Honeypot solution (commercial)
 - [CanaryTokens](https://canarytokens.org/generate) - Free honeytoken
 - [Malcolm](https://github.com/idaholab/Malcolm) - Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs.
+- [Zeek](https://zeek.org/) - Zeek is an open source network security monitoring tool.
+  - [zeek2es](https://github.com/corelight/zeek2es) - A Zeek log to Elastic/OpenSearch log converter.
 
 ## Network Inventory
 - [phpipam](https://phpipam.net/) - Open-source web IP address management application (IPAM).
