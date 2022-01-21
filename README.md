@@ -39,6 +39,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [snabb](https://github.com/snabbco/snabb) - Snabb (formerly "Snabb Switch") is a simple and fast packet networking toolkit.
 
 ## VPN
+- [Firezone](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 - [PiVPN](https://www.pivpn.io/) - Simplest OpenVPN setup and configuration, designed for Raspberry Pi.
 
 ## Network Services
