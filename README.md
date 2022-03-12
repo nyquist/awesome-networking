@@ -95,6 +95,8 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [LibreNMS](https://www.librenms.org/) - Network monitoring system that supports automatic discovery, alerting, distributed polling and others.
 - [Observium](https://observium.org/) - Low-maintenance auto-discovering network monitoring platform.
 - [Elastiflow](https://github.com/robcowart/elastiflow) - Netflow collector and reporting
+- [vFlow](https://github.com/EdgeCast/vflow) - High-performance, scalable and reliable IPFIX, sFlow and Netflow collector (written in pure Golang).
+- [goFlow](https://github.com/cloudflare/goflow) - a NetFlow/IPFIX/sFlow collector in Go.
 
 ## Security Monitoring
 - [cPacket](https://www.cpacket.com) - Performance monitoring solutions that deliver real-time analysis and coverage (Commercial).
