@@ -66,6 +66,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 ## Network Connectivity
 - [Packetfabric](https://packetfabric.com/) - Network as a service provider (commercial)
 - [Prosimo](https://prosimo.io/) - Autonomous Multi-Cloud Network (commercial)
+- [Subtelforum Online Map](https://subtelforum.com/online-map/) - Submarine cables map
 
 # Network Operations
 ## Network Change Management
