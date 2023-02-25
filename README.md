@@ -78,6 +78,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 	multiple devices.
 - [sweet](https://github.com/AppliedTrust/sweet) - Network device configuration backups and change alerts for the 21st century - inspired by RANCID.
 - [stockpiler](https://github.com/lykinsbd/stockpiler) - Stockpiler gathers network device configurations and stores them in a local Git repository.
+- [Jerikan](https://github.com/jerikan-network) - a configuration management system for network teams
 
 ## Network Automation
 - [Napalm](https://napalm-automation.net/) - Vendor neutral, cross-platform open source project that provides a unified API to network devices.
