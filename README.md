@@ -9,6 +9,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
   - [VPN](#vpn)
   - [Network Services](#network-services)
   - [Network Simulators and Traffic Generators](#network-simulators-and-traffic-generators)
+  - [Network Connectivity](#network-connectivity)
 - [Network Operations](#network-operations)
   - [Network Change Management](#network-change-management)
   - [Network Automation](#network-automation)
@@ -61,6 +62,9 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [SafePcap](https://omnipacket.com/safepcap) - GDPR and NISTIR 8053 Compliance for your Pcap files.
 - [Arkime](https://github.com/arkime/arkime) - Arkime augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.
 - [pyNTM](https://pyntm.readthedocs.io/en/latest/index.html) - a network traffic modeler written in python 3.
+
+## Network Connectivity
+- [Packetfabric](https://packetfabric.com/) - Network as a service provider (commercial)
 
 # Network Operations
 ## Network Change Management
