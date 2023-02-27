@@ -68,6 +68,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Packetfabric](https://packetfabric.com/) - Network as a service provider (commercial)
 - [Prosimo](https://prosimo.io/) - Autonomous Multi-Cloud Network (commercial)
 - [Subtelforum Online Map](https://subtelforum.com/online-map/) - Submarine cables map
+- [Megaport](https://www.megaport.com/) - Network as a Service (NaaS) platform (commercial)
 
 # Network Operations
 ## Network Change Management
