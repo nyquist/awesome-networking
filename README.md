@@ -93,6 +93,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [itential.com](https://www.itential.com/) - Low-Code Automation for Physical, Virtual, and Cloud Networks(commercial).
 - [AWX](https://github.com/ansible/awx) - the upstream project for Tower, a commercial derivative of AWX.
 - [Unimus](https://unimus.net/) Unimus makes Network Automation and Configuration Management easy (commercial).
+- [Blackbox](https://backbox.com/) - Network automation for the hybrid multi-cloud era
 
 ## Network Monitoring
 - [perfSONAR](https://www.perfsonar.net) - Network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations.
