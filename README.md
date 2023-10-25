@@ -93,7 +93,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [itential.com](https://www.itential.com/) - Low-Code Automation for Physical, Virtual, and Cloud Networks(commercial).
 - [AWX](https://github.com/ansible/awx) - the upstream project for Tower, a commercial derivative of AWX.
 - [Unimus](https://unimus.net/) Unimus makes Network Automation and Configuration Management easy (commercial).
-- [Blackbox](https://backbox.com/) - Network automation for the hybrid multi-cloud era.
+- [Blackbox](https://backbox.com/) - Network automation for the hybrid multi-cloud era (commercial).
 - [Nephio](https://nephio.org/) - Nephio’s goal is to deliver carrier-grade, simple, open, Kubernetes-based cloud native intent automation and common automation templates.
 - [GitNOps](https://github.com/mcgonagle/GitNops) - GitNops is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD, and applies them to network automation.
 
