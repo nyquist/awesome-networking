@@ -149,6 +149,9 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Who is my ISP?](https://www.whoismyisp.org) - Simple service that shows the ISP of an IP.
 - [NsLookup.io](https://www.nslookup.io) - Simple service that shows all DNS records for a domain name.
 - [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container.
+- [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container.
+- [DNSlookup](https://dnslookup.pro/) - Easy DNS lookup Tools
+- [What is my isp](https://whois-myisp.com/) -  tool to find ISP name
 
 ## DevNet Monitoring
 - [netdata](https://github.com/firehol/netdata) - Distributed real-time performance and health monitoring.
