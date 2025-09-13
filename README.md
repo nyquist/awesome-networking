@@ -98,6 +98,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [GitNOps](https://github.com/mcgonagle/GitNops) - GitNops is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD, and applies them to network automation.
 
 ## Network Monitoring
+- [rkik](https://github.com/aguacero7/rkik) - Light, easy-to-use monitoring tool for NTP servers
 - [perfSONAR](https://www.perfsonar.net) - Network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations.
 - [UDPing](https://github.com/yahoo/UDPing) - Measure latency and packet loss across a link.
 - [Vaping](https://github.com/20c/vaping) - vaping is a healthy alternative to smokeping.
