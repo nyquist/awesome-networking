@@ -127,6 +127,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [DrKeithJones.com](https://drkeithjones.com) - Keith Jones' blog on cyber security and security monitoring.
 
 ## Network Inventory
+- [nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform.
 - [phpipam](https://phpipam.net/) - Open-source web IP address management application (IPAM).
 - [nsot](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database.
 - [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
