@@ -90,8 +90,8 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices.
 - [CNaaS-NMS](https://github.com/SUNET/cnaas-nms) - Campus Network-as-a-Service - Network Management System. Software to automate management of a campus network (LAN).
 - [pyats](https://developer.cisco.com/pyats/) - pyATS enable network engineers to perform stateful validation of their device operational status.
-- [itential.com](https://www.itential.com/) - Low-Code Automation for Physical, Virtual, and Cloud Networks(commercial).
-- [AWX](https://github.com/ansible/awx) - the upstream project for Tower, a commercial derivative of AWX.
+- [itential.com](https://www.itential.com/) - Low-Code Automation for Physical, Virtual, and Cloud Networks (commercial).
+- [AWX](https://github.com/ansible/awx) - the upstream project for Tower / AAP2, a commercial derivative of AWX.
 - [Unimus](https://unimus.net/) Unimus makes Network Automation and Configuration Management easy (commercial).
 - [Blackbox](https://backbox.com/) - Network automation for the hybrid multi-cloud era (commercial).
 - [Nephio](https://nephio.org/) - Nephio’s goal is to deliver carrier-grade, simple, open, Kubernetes-based cloud native intent automation and common automation templates.
