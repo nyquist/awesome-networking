@@ -105,6 +105,8 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [veryflow](https://www.veriflow.net/) - Continuous network verification system.
 - [Forward Networks](https://www.forwardnetworks.com/) - Network Behavior Analysis (Commercial).
 - [ToDD](https://github.com/toddproject/todd) - Distributed, testing-on-demand system focused on testing network related conditions.
+- [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) - Monitors OSPF topology changes and LSA updates in real time. Provides event visualization and historical tracking via Topolograph or centralized logging through ELK.
+- [IS-IS Watcher](https://github.com/Vadims06/isiswatcher) - Monitors IS-IS topology changes and PDU updates in real time. Provides event visualization and historical tracking via Topolograph or centralized logging through ELK.
 - [pmacct](http://www.pmacct.net/) - Small set of multi-purpose passive network monitoring tools, including Netflow or IPFIX generation.
 - [LibreNMS](https://www.librenms.org/) - Network monitoring system that supports automatic discovery, alerting, distributed polling and others.
 - [Observium](https://observium.org/) - Low-maintenance auto-discovering network monitoring platform.
@@ -149,6 +151,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [icanhaztraceroute.com](https://icanhaztraceroute.com/) - Simple service that returns a traceroute back to your source IP.
 - [Who is my ISP?](https://www.whoismyisp.org) - Simple service that shows the ISP of an IP.
 - [NsLookup.io](https://www.nslookup.io) - Simple service that shows all DNS records for a domain name.
+- [Topolograph](https://topolograph.com/) - Network visualization and analytics platform that reconstructs OSPF and IS-IS topologies from LSDB data. Supports offline analysis, topology comparison, what-if scenarios and historical event tracking.
 - [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container.
 - [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container.
 - [DNSlookup](https://dnslookup.pro/) - Easy DNS lookup Tools
