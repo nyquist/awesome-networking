@@ -146,7 +146,10 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [CML](https://www.cisco.com/site/us/en/learn/training-certifications/training/modeling-labs/index.html) - Cisco Modeling Labs is a network simulation tool with both free and paid versions. CML is the successor to VIRL. Community contributed content and resources are available via [cml-community](https://github.com/CiscoDevNet/cml-community).
 - [Cisco DevNet Labs](https://developer.cisco.com/site/sandbox/) - Cisco's sandboxing environment.
 - [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer) - Cisco's original (and in later years free) network simulation tool.
+- [containerlab](https://github.com/srl-labs/containerlab) - Container-based networking labs, though support has been added to integrate Virtual Machines (VMs).
 - [dCloud](https://dcloud.cisco.com/) - Fully scripted, customizable environments available almost instantly in the cloud for free.
+- [EVE-NG](https://www.eve-ng.net/) - The Emulated Virtual Environment For Network, Security and DevOps Professionals. There is a paid Professional Edition as well as a free [Community Edition](https://www.eve-ng.net/index.php/community/).
+- [PNETLab](https://github.com/pnetlab/pnetlab_main) - Introducing the most powerful tool to create, share and practice Networking Lab with multi-vendors. 
 
 # Related resources
 ## DevNet Tools
