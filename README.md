@@ -127,6 +127,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [DrKeithJones.com](https://drkeithjones.com) - Keith Jones' blog on cyber security and security monitoring.
 
 ## Network Inventory
+- [infrahub](https://github.com/opsmill/infrahub) -  Infrahub is a graph-based data management platform with built-in version control, CI workflows, peer review, and API access. It’s purpose-built to power reliable infrastructure automation at scale.
 - [nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform.
 - [phpipam](https://phpipam.net/) - Open-source web IP address management application (IPAM).
 - [nsot](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database.
