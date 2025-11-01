@@ -89,6 +89,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [ntc-templates](https://github.com/networktocode/ntc-templates) - TextFSM templates for parsing show commands of network devices.
 - [TextFSM](https://github.com/google/textfsm) -  Python module for parsing semi-structured text into Python tables.
 - [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python that was designed for interfacing with network devices.
+- [TTP](https://github.com/dmulyalin/ttp) - TTP is a Python library for semi-structured text parsing using templates.
 - [Ansible](https://github.com/ansible/ansible) - IT automation platform that makes your applications and systems easier to deploy by using SSH, with no agents to install on remote systems.
 - [nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices.
 - [CNaaS-NMS](https://github.com/SUNET/cnaas-nms) - Campus Network-as-a-Service - Network Management System. Software to automate management of a campus network (LAN).
