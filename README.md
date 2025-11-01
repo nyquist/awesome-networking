@@ -83,6 +83,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Jerikan](https://github.com/jerikan-network) - a configuration management system for network teams
 
 ## Network Automation
+- [gotextfsm](https://github.com/sirikothe/gotextfsm) - Port of Google's TextFSM library from Python to Go/Golang.
 - [Napalm](https://napalm-automation.net/) - Vendor neutral, cross-platform open source project that provides a unified API to network devices.
 - [netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
 - [ntc-templates](https://github.com/networktocode/ntc-templates) - TextFSM templates for parsing show commands of network devices.
