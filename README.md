@@ -83,15 +83,19 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Jerikan](https://github.com/jerikan-network) - a configuration management system for network teams
 
 ## Network Automation
+- [gotextfsm](https://github.com/sirikothe/gotextfsm) - Port of Google's TextFSM library from Python to Go/Golang.
 - [Napalm](https://napalm-automation.net/) - Vendor neutral, cross-platform open source project that provides a unified API to network devices.
 - [netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
+- [ntc-templates](https://github.com/networktocode/ntc-templates) - TextFSM templates for parsing show commands of network devices.
+- [TextFSM](https://github.com/google/textfsm) -  Python module for parsing semi-structured text into Python tables.
 - [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python that was designed for interfacing with network devices.
+- [TTP](https://github.com/dmulyalin/ttp) - TTP is a Python library for semi-structured text parsing using templates.
 - [Ansible](https://github.com/ansible/ansible) - IT automation platform that makes your applications and systems easier to deploy by using SSH, with no agents to install on remote systems.
 - [nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices.
 - [CNaaS-NMS](https://github.com/SUNET/cnaas-nms) - Campus Network-as-a-Service - Network Management System. Software to automate management of a campus network (LAN).
 - [pyats](https://developer.cisco.com/pyats/) - pyATS enable network engineers to perform stateful validation of their device operational status.
-- [itential.com](https://www.itential.com/) - Low-Code Automation for Physical, Virtual, and Cloud Networks(commercial).
-- [AWX](https://github.com/ansible/awx) - the upstream project for Tower, a commercial derivative of AWX.
+- [itential.com](https://www.itential.com/) - Low-Code Automation for Physical, Virtual, and Cloud Networks (commercial).
+- [AWX](https://github.com/ansible/awx) - the upstream project for Tower / AAP2, a commercial derivative of AWX.
 - [Unimus](https://unimus.net/) Unimus makes Network Automation and Configuration Management easy (commercial).
 - [Blackbox](https://backbox.com/) - Network automation for the hybrid multi-cloud era (commercial).
 - [Nephio](https://nephio.org/) - Nephio’s goal is to deliver carrier-grade, simple, open, Kubernetes-based cloud native intent automation and common automation templates.
