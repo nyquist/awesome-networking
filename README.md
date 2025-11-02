@@ -15,7 +15,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
   - [Network Automation](#network-automation)
   - [Network Monitoring](#network-monitoring)
   - [Security Monitoring](#security-monitoring)
-  - [Network Inventory](#network-inventory) 
+  - [Network Inventory](#network-inventory)
+  - [Networking Labs](#networking-labs)
 - [Related resources](#related-resources)
   - [DevNet Tools](#devnet-tools)
   - [DevNet Monitoring](#devnet-monitoring)
@@ -142,9 +143,15 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [drawthe.net](https://github.com/cidrblock/drawthe.net) - Draws network diagrams dynamically from a text file describing the placement, layout and icons.
 
 ## Networking Labs
-- [VIRL](https://learningnetworkstore.cisco.com/virlfaq) - Virtual Internet Routing Lab by Cisco.
+
+- [CML](https://www.cisco.com/site/us/en/learn/training-certifications/training/modeling-labs/index.html) - Cisco Modeling Labs is a network simulation tool with both free and paid versions. CML is the successor to VIRL. Community contributed content and resources are available via [cml-community](https://github.com/CiscoDevNet/cml-community).
+- [Cisco DevNet Labs](https://developer.cisco.com/site/sandbox/) - Cisco's sandboxing environment.
+- [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer) - Cisco's original (and in later years free) network simulation tool.
+- [containerlab](https://github.com/srl-labs/containerlab) - Container-based networking labs, though support has been added to integrate Virtual Machines (VMs).
 - [dCloud](https://dcloud.cisco.com/) - Fully scripted, customizable environments available almost instantly in the cloud for free.
-- [Cisco DevNet Labs](https://developer.cisco.com/site/sandbox/) - Cisco's sandboxing environment
+- [EVE-NG](https://www.eve-ng.net/) - The Emulated Virtual Environment For Network, Security and DevOps Professionals. There is a paid Professional Edition as well as a free [Community Edition](https://www.eve-ng.net/index.php/community/).
+- [netlab](https://github.com/ipspace/netlab) - netlab is bringing infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository auto-define details.
+- [PNETLab](https://github.com/pnetlab/pnetlab_main) - Introducing the most powerful tool to create, share and practice Networking Lab with multi-vendors. 
 
 # Related resources
 ## DevNet Tools
