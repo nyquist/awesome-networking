@@ -24,6 +24,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
   - [Knowledge Resources](#knowledge-resources)
 
 # Network Design Resources
+- [Arista Design and Deployment Guides](https://www.arista.com/en/solutions/design-guides)
 - [Cisco Design Zone](https://www.cisco.com/c/en/us/solutions/design-zone.html#~stickynav=1)
 - [Cumulus Networks Validated Design Guides](https://cumulusnetworks.com/learn/web-scale-networking-resources/?validated-design-guides) 
 - [Juniper Solution Center](https://www.juniper.net/documentation/en_US/release-independent/solutions/information-products/pathway-pages/solutions/index.html)
