@@ -103,6 +103,11 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Nephio](https://nephio.org/) - Nephio’s goal is to deliver carrier-grade, simple, open, Kubernetes-based cloud native intent automation and common automation templates.
 - [GitNOps](https://github.com/mcgonagle/GitNops) - GitNops is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD, and applies them to network automation.
 
+## AI for Networking
+- [Cisco LLM Security Leaderboard](https://leaderboard.aidefense.cisco.com/methodology) - Comprehensive model safety and security rankings, including single-turn score, multi-turn score, and detailed metrics.
+- [NetClaw](https://github.com/automateyournetwork/netclaw) - A CCIE-level AI network engineering coworker, built on OpenClaw
+- [DefenseClaw](https://github.com/cisco-ai-defense/defenseclaw) - DefenseClaw is the enterprise governance layer for OpenClaw
+
 ## Network Monitoring
 - [rkik](https://github.com/aguacero7/rkik) - Light, easy-to-use monitoring tool for NTP servers
 - [perfSONAR](https://www.perfsonar.net) - Network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations.
