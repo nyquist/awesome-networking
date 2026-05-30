@@ -165,6 +165,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Who is my ISP?](https://www.whoismyisp.org) - Simple service that shows the ISP of an IP.
 - [NsLookup.io](https://www.nslookup.io) - Simple service that shows all DNS records for a domain name.
 - [Topolograph](https://topolograph.com/) - Network visualization and analytics platform that reconstructs OSPF and IS-IS topologies from LSDB data. Supports offline analysis, topology comparison, what-if scenarios and historical event tracking.
+- [net-benchmark](https://github.com/net-benchmark/net-benchmark) - DNS/HTTP/SSL benchmarking and diagnostics CLI.
 - [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container.
 - [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container.
 - [DNSlookup](https://dnslookup.pro/) - Easy DNS lookup Tools
