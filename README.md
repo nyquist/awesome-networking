@@ -44,6 +44,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Firezone](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 - [Pilot Protocol](https://github.com/TeoSlayer/pilotprotocol) - Overlay network stack for AI agents with virtual addresses, encrypted UDP tunnels (AES-256-GCM), NAT traversal, and mutual trust. Written in Go with zero dependencies.
 - [PiVPN](https://www.pivpn.io/) - Simplest OpenVPN setup and configuration, designed for Raspberry Pi.
+- [simplest-vpn](https://github.com/developer3389/simplest-vpn) - A protocol-agnostic tunneling proof-of-concept (PoC) written in Go. This project demonstrates the fundamental principles of a VPN stack via a TUN interface, focusing on high throughput (500+ Mbps) and a minimal codebase (~200 lines) with minimal external dependencies.
 
 ## Network Services
 - [Pi-Hole](https://pi-hole.net/) - Network-wide ad blocking via your own Linux hardware.
