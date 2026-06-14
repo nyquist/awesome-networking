@@ -147,6 +147,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 - [ipfabric](https://ipfabric.io/product/network-mapping) - Network Topology Mapping & Visualization (Commercial).
 - [drawthe.net](https://github.com/cidrblock/drawthe.net) - Draws network diagrams dynamically from a text file describing the placement, layout and icons.
+- [TopoAI](https://www.topoai.cc/) - AI-assisted network topology diagram drafts from sanitized natural-language infrastructure scenarios for documentation and handoffs.
 
 ## Networking Labs
 - [VIRL](https://learningnetworkstore.cisco.com/virlfaq) - Virtual Internet Routing Lab by Cisco.
