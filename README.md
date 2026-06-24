@@ -131,6 +131,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [cPacket](https://www.cpacket.com) - Performance monitoring solutions that deliver real-time analysis and coverage (Commercial).
 - [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway) - Open-source email security solution helping you to protect your mail server against all email threats the moment they emerge.
 - [FastNetMon](https://fastnetmon.com/) - DDoS detection tool (Open Source or Commercial).
+- [Flowtriq](https://github.com/Flowtriq/flowtriq-pfsense-opnsense) - DDoS detection for pfSense, OPNsense, and VyOS routers via NetFlow export, with real-time alerting and automated mitigation.
 - [PyREBox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU.
 - [Canary](https://canary.tools/) - Honeypot solution (commercial).
 - [CanaryTokens](https://canarytokens.org/generate) - Free honeytoken.
