@@ -72,6 +72,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Prosimo](https://prosimo.io/) - Autonomous Multi-Cloud Network (commercial)
 - [Subtelforum Online Map](https://subtelforum.com/online-map/) - Submarine cables map
 - [Megaport](https://www.megaport.com/) - Network as a Service (NaaS) platform (commercial)
+- [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - Open-source cross-platform GUI desktop client for FRP (fast reverse proxy), enabling NAT traversal without touching the command line.
 
 # Network Operations
 ## Network Change Management
