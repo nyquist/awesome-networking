@@ -177,6 +177,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [DNSlookup](https://dnslookup.pro/) - Easy DNS lookup Tools
 - [What is my isp](https://whois-myisp.com/) -  tool to find ISP name
 - [iptoolspro.com](https://iptoolspro.com) - Free browser-based network tools: IP lookup, DNS lookup, port checker, traceroute, MAC address lookup, VPN leak test, IP blacklist check, and more.
+- [Obelinf Toolkit](https://obelinf.com/toolkit/) - Free browser-based network toolkit with IP and subnet calculators, VLAN planning, device naming conventions, checklists, and reference tables.
 
 ## DevNet Monitoring
 - [netdata](https://github.com/firehol/netdata) - Distributed real-time performance and health monitoring.
