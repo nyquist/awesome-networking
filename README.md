@@ -108,7 +108,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Cisco LLM Security Leaderboard](https://leaderboard.aidefense.cisco.com/methodology) - Comprehensive model safety and security rankings, including single-turn score, multi-turn score, and detailed metrics.
 - [NetClaw](https://github.com/automateyournetwork/netclaw) - A CCIE-level AI network engineering coworker, built on OpenClaw
 - [DefenseClaw](https://github.com/cisco-ai-defense/defenseclaw) - DefenseClaw is the enterprise governance layer for OpenClaw
-- [ACI MCP](https://github.com/k3l0-dev/aci-mcp) - MCP server that lets an LLM query a Cisco ACI fabric by reading the APIC's own object model, so classes are discovered rather than hardcoded. Read-only, free for non-commercial use.
+- [niwashi-mcp](https://github.com/k3l0-dev/niwashi-mcp) - MCP server that lets an LLM query a Cisco ACI fabric by reading the APIC's own object model, so all 15,452 classes are discovered rather than hardcoded. Install with `uvx niwashi-mcp`. Read-only, free for non-commercial use.
 
 ## Network Monitoring
 - [rkik](https://github.com/aguacero7/rkik) - Light, easy-to-use monitoring tool for NTP servers
