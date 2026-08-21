@@ -172,6 +172,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Who is my ISP?](https://www.whoismyisp.org) - Simple service that shows the ISP of an IP.
 - [NsLookup.io](https://www.nslookup.io) - Simple service that shows all DNS records for a domain name.
 - [Topolograph](https://topolograph.com/) - Network visualization and analytics platform that reconstructs OSPF and IS-IS topologies from LSDB data. Supports offline analysis, topology comparison, what-if scenarios and historical event tracking.
+- [Network Doctor](https://github.com/heymaikol/network-doctor) - Cross-platform terminal application that diagnoses interface, DNS, TCP, TLS, HTTP, proxy, and path MTU failures without root access and suggests fixes.
 - [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container.
 - [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container.
 - [DNSlookup](https://dnslookup.pro/) - Easy DNS lookup Tools
