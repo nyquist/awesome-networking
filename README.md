@@ -66,6 +66,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [SafePcap](https://omnipacket.com/safepcap) - GDPR and NISTIR 8053 Compliance for your Pcap files.
 - [Arkime](https://github.com/arkime/arkime) - Arkime augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.
 - [pyNTM](https://pyntm.readthedocs.io/en/latest/index.html) - a network traffic modeler written in python 3.
+- [Aurora](https://github.com/Daniele-Cangi/Aurora) - A C++20 network research testbed for deterministic heterogeneous-network simulation and authenticated process-separated UDP transport emulation, with reproducible testing of fixed and bio-inspired adaptive protection policies.
 
 ## Network Connectivity
 - [Packetfabric](https://packetfabric.com/) - Network as a service provider (commercial)
