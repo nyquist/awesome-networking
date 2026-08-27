@@ -139,6 +139,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Zeek](https://zeek.org/) - Zeek is an open source network security monitoring tool.
   - [zeek2es](https://github.com/corelight/zeek2es) - A Zeek log to Elastic/OpenSearch log converter.
 - [DrKeithJones.com](https://drkeithjones.com) - Keith Jones' blog on cyber security and security monitoring.
+- [Shieldxy](https://github.com/RockxyApp/Shieldxy) - Open-source, auditable application firewall and connection monitor for macOS.
 
 ## Network Inventory
 - [infrahub](https://github.com/opsmill/infrahub) -  Infrahub is a graph-based data management platform with built-in version control, CI workflows, peer review, and API access. It’s purpose-built to power reliable infrastructure automation at scale.
