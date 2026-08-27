@@ -128,6 +128,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [BGPAlerter](https://github.com/nttgin/BGPalerter) - Self-configuring BGP monitoring tool
 - [xpresso](https://github.com/CiscoTestAutomation/xpresso) - the standard pyATS UI dashboard
 - [NexusFlowMeter](https://github.com/Collgamer0008/NexusFlowMeter) - high-performance network flow analysis tool that converts packet capture (PCAP) files into comprehensive flow-based insights, includes various productibity features. 
+- [Tracexy](https://github.com/RockxyApp/Tracexy) - Native, local-first network intelligence for macOS with live traffic capture and PCAP or PCAPNG investigation.
 ## Security Monitoring
 - [cPacket](https://www.cpacket.com) - Performance monitoring solutions that deliver real-time analysis and coverage (Commercial).
 - [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway) - Open-source email security solution helping you to protect your mail server against all email threats the moment they emerge.
