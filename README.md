@@ -206,3 +206,5 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Network Lab Pro Edition](https://chaithu-lets-code.github.io/SubnetPro) - Network reference and utilities
 
 
+
+- [Subnet Calculator](https://afrozahmad.com/subnet-calculator/) - Free IPv4 and IPv6 subnet calculator with VLSM splitting, wildcard mask and binary view.
