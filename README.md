@@ -121,6 +121,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [IS-IS Watcher](https://github.com/Vadims06/isiswatcher) - Monitors IS-IS topology changes and PDU updates in real time. Provides event visualization and historical tracking via Topolograph or centralized logging through ELK.
 - [pmacct](http://www.pmacct.net/) - Small set of multi-purpose passive network monitoring tools, including Netflow or IPFIX generation.
 - [LibreNMS](https://www.librenms.org/) - Network monitoring system that supports automatic discovery, alerting, distributed polling and others.
+- [NetHawk](https://github.com/Flowtriq/nethawk) - Real-time network traffic analysis TUI built in Go. Single binary, zero config, works over SSH. Features bandwidth monitoring, protocol breakdown, top talkers, and DDoS attack detection.
 - [Observium](https://observium.org/) - Low-maintenance auto-discovering network monitoring platform.
 - [Elastiflow](https://github.com/robcowart/elastiflow) - Netflow collector and reporting.
 - [vFlow](https://github.com/EdgeCast/vflow) - High-performance, scalable and reliable IPFIX, sFlow and Netflow collector (written in pure Golang).
