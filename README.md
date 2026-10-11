@@ -192,6 +192,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
   - [LogStash](https://github.com/elastic/logstash) - Transport and process your logs, events, or other data.
   - [Kibana](https://github.com/elastic/kibana) - Analytics and search dashboard for Elasticsearch.
 - [Graylog](https://www.graylog.org/) - Parse and enrich logs, wire data, and event data from any data source (Commercial, Free for less than 5GB/day).
+- [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime monitoring with ICMP, TCP, UDP, DNS, NTP, TLS certificate and SNMP (v1/v2c/v3, OID value) checks. Private agents probe hosts inside a LAN and connect out to the server over WebSocket.
 
 ## DevNet Knowledgebase
 - [ITGlue](https://www.itglue.com/) - IT focused documentation solution (Commercial).
