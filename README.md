@@ -107,6 +107,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 ## AI for Networking
 - [Cisco LLM Security Leaderboard](https://leaderboard.aidefense.cisco.com/methodology) - Comprehensive model safety and security rankings, including single-turn score, multi-turn score, and detailed metrics.
 - [NetClaw](https://github.com/automateyournetwork/netclaw) - A CCIE-level AI network engineering coworker, built on OpenClaw
+- [NetPilot](https://www.netpilot.io) - AI agent that designs, builds, and validates multi-vendor network labs from a plain-English prompt, on real NOSes (Cisco, Juniper, Arista, Nokia, and more) via containerlab.
 - [DefenseClaw](https://github.com/cisco-ai-defense/defenseclaw) - DefenseClaw is the enterprise governance layer for OpenClaw
 
 ## Network Monitoring
