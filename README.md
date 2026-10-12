@@ -108,6 +108,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Cisco LLM Security Leaderboard](https://leaderboard.aidefense.cisco.com/methodology) - Comprehensive model safety and security rankings, including single-turn score, multi-turn score, and detailed metrics.
 - [NetClaw](https://github.com/automateyournetwork/netclaw) - A CCIE-level AI network engineering coworker, built on OpenClaw
 - [DefenseClaw](https://github.com/cisco-ai-defense/defenseclaw) - DefenseClaw is the enterprise governance layer for OpenClaw
+- [genieacs-mcp](https://github.com/GeiserX/genieacs-mcp) - MCP server for GenieACS, the open-source TR-069 ACS: lets an AI assistant search routers, ONTs and other CPE devices, read their parameters, tasks and faults, and reboot them, push firmware or set parameters.
 
 ## Network Monitoring
 - [rkik](https://github.com/aguacero7/rkik) - Light, easy-to-use monitoring tool for NTP servers
