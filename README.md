@@ -45,6 +45,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Firezone](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 - [Pilot Protocol](https://github.com/TeoSlayer/pilotprotocol) - Overlay network stack for AI agents with virtual addresses, encrypted UDP tunnels (AES-256-GCM), NAT traversal, and mutual trust. Written in Go with zero dependencies.
 - [PiVPN](https://www.pivpn.io/) - Simplest OpenVPN setup and configuration, designed for Raspberry Pi.
+- [PasteZap WireGuard Config Generator](https://pastezap.com/tools/wireguard-config-generator/) - Server and client configs with keys generated in the browser, IPv4/IPv6 addressing, full or split tunnel and QR codes.
 
 ## Network Services
 - [Pi-Hole](https://pi-hole.net/) - Network-wide ad blocking via your own Linux hardware.
