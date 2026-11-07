@@ -205,6 +205,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Software Gone Wild Podcast](https://www.ipspace.net/Podcast/Software_Gone_Wild/) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks.
 - [Cisco DevNet Basics](https://developer.cisco.com/video/net-prog-basics) - Learn network programmability basics.
 - [Cisco Tools](https://www.cisco.com/c/en/us/support/web/tools-catalog.html) - List of Cisco tools maintained by Cisco.
+- [RMM Network Device Monitoring Acceptance Checklist](https://izikipizi.github.io/nizlo-msp-operations-resources/rmm-network-device-monitoring-acceptance-checklist.html) - Vendor-neutral checklist and CSV template for validating network-device discovery, SNMP polling, alert delivery, failure behavior, recovery, and operational ownership during a monitoring trial.
 - [Juniper Day One Books](https://www.juniper.net/documentation/jnbooks/us/en/day-one-books) - Day One Books cover networking technologies using step-by-step instructions and practical examples written by working engineers
 - [Network Lab Pro Edition](https://chaithu-lets-code.github.io/SubnetPro) - Network reference and utilities
 
