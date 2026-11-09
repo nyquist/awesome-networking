@@ -180,6 +180,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [DNSlookup](https://dnslookup.pro/) - Easy DNS lookup Tools
 - [What is my isp](https://whois-myisp.com/) -  tool to find ISP name
 - [iptoolspro.com](https://iptoolspro.com) - Free browser-based network tools: IP lookup, DNS lookup, port checker, traceroute, MAC address lookup, VPN leak test, IP blacklist check, and more.
+- [CertBench Subnet Calculator](https://certbench.dev/tools/subnet-calculator) - Free browser-based IPv4 subnet calculator with a CIDR cheat sheet.
 
 ## DevNet Monitoring
 - [netdata](https://github.com/firehol/netdata) - Distributed real-time performance and health monitoring.
