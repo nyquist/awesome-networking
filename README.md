@@ -110,6 +110,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [DefenseClaw](https://github.com/cisco-ai-defense/defenseclaw) - DefenseClaw is the enterprise governance layer for OpenClaw
 
 ## Network Monitoring
+- [TapMap](https://github.com/olalie/tapmap) - Local-first network monitoring tool that visualizes your computer's internet connections on an interactive world map.
 - [rkik](https://github.com/aguacero7/rkik) - Light, easy-to-use monitoring tool for NTP servers
 - [perfSONAR](https://www.perfsonar.net) - Network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations.
 - [UDPing](https://github.com/yahoo/UDPing) - Measure latency and packet loss across a link.
