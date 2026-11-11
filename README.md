@@ -84,6 +84,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [sweet](https://github.com/AppliedTrust/sweet) - Network device configuration backups and change alerts for the 21st century - inspired by RANCID.
 - [stockpiler](https://github.com/lykinsbd/stockpiler) - Stockpiler gathers network device configurations and stores them in a local Git repository.
 - [Jerikan](https://github.com/jerikan-network) - a configuration management system for network teams
+- [LYSS](https://github.com/lyss-project/lyss) - Read-only security audit of switch configurations against an open, vendor-neutral baseline, with evidence, fixes and CI checks.
 
 ## Network Automation
 - [gotextfsm](https://github.com/sirikothe/gotextfsm) - Port of Google's TextFSM library from Python to Go/Golang.
