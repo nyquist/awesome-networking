@@ -159,6 +159,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [containerlab](https://github.com/srl-labs/containerlab) - Container-based networking labs, though support has been added to integrate Virtual Machines (VMs).
 - [dCloud](https://dcloud.cisco.com/) - Fully scripted, customizable environments available almost instantly in the cloud for free.
 - [EVE-NG](https://www.eve-ng.net/) - The Emulated Virtual Environment For Network, Security and DevOps Professionals. There is a paid Professional Edition as well as a free [Community Edition](https://www.eve-ng.net/index.php/community/).
+- [FortiGate Lab Template](https://github.com/ibondarenko1/fortigate-lab-template) - Self-hosted FortiOS lab for testing firewall policies and RADIUS authentication, with a standalone Docker worksheet for policy exercises.
 - [netlab](https://github.com/ipspace/netlab) - netlab is bringing infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository auto-define details.
 - [PNETLab](https://github.com/pnetlab/pnetlab_main) - Introducing the most powerful tool to create, share and practice Networking Lab with multi-vendors. 
 
