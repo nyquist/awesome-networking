@@ -207,5 +207,6 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Cisco Tools](https://www.cisco.com/c/en/us/support/web/tools-catalog.html) - List of Cisco tools maintained by Cisco.
 - [Juniper Day One Books](https://www.juniper.net/documentation/jnbooks/us/en/day-one-books) - Day One Books cover networking technologies using step-by-step instructions and practical examples written by working engineers
 - [Network Lab Pro Edition](https://chaithu-lets-code.github.io/SubnetPro) - Network reference and utilities
+- [Subnet Calculator](https://bestlatestapps.com/tools/subnet-calculator/) - Browser tool that works out the network, mask, host range and address count for an IPv4 or IPv6 prefix, checks whether an address is inside it, and splits the block into smaller subnets.
 
 
