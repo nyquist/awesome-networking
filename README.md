@@ -72,6 +72,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Prosimo](https://prosimo.io/) - Autonomous Multi-Cloud Network (commercial)
 - [Subtelforum Online Map](https://subtelforum.com/online-map/) - Submarine cables map
 - [Megaport](https://www.megaport.com/) - Network as a Service (NaaS) platform (commercial)
+- [OTDR Master](https://otdrmaster.com/en) - Browser-based viewer for fiber OTDR trace files (.sor, .trc, .tst and other vendor formats): trace, events, cursor measurements, PDF report (free, optional paid plan)
 
 # Network Operations
 ## Network Change Management
