@@ -161,6 +161,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [EVE-NG](https://www.eve-ng.net/) - The Emulated Virtual Environment For Network, Security and DevOps Professionals. There is a paid Professional Edition as well as a free [Community Edition](https://www.eve-ng.net/index.php/community/).
 - [netlab](https://github.com/ipspace/netlab) - netlab is bringing infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository auto-define details.
 - [PNETLab](https://github.com/pnetlab/pnetlab_main) - Introducing the most powerful tool to create, share and practice Networking Lab with multi-vendors. 
+- [The Work Gym networking course](https://theworkgym.com/networking/) - Browser router and switch CLI with checked tasks on subnetting, VLANs, routing, ACLs and NAT, plus original CCNA-style mock exams. First unit free.
 
 # Related resources
 ## DevNet Tools
